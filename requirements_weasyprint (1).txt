@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+matplotlib
+weasyprint
+python-multipart
+email-validator
